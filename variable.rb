@@ -1,4 +1,4 @@
 greeting = "Hello World"
 puts greeting
-learn = "learn submit"
+learn = "submit"
 puts learn
